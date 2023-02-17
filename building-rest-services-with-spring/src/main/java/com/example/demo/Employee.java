@@ -1,3 +1,5 @@
+// Loosely analogous to Django's Models.
+
 package com.example.demo;
 
 import java.util.Objects;
